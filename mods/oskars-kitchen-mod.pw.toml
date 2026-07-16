@@ -1,0 +1,13 @@
+name = "Oskar's Kitchencraft"
+filename = "Kitchencraft NeoForge 1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5554ba58a51cc6c6b3b8e3b3d5c74960c2a36c0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5668398
+project-id = 657819

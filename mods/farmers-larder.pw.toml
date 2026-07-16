@@ -1,0 +1,13 @@
+name = "Farmer's Larder"
+filename = "farmerslarder-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "495fe9b333eead23722d4b66f312d769c74235ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7528393
+project-id = 1113214

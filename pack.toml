@@ -1,0 +1,11 @@
+name = "Twilight Sparkle"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "96086c917c88e1e150327e486f41e090ba379dc3bc237cf2763cd7b681d2f949"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"

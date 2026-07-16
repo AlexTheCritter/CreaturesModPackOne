@@ -1,0 +1,13 @@
+name = "French Delight (farmer's delight)"
+filename = "update_2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "127a1d45a72580aaf7c3e8cf2ae38aae43b96d77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8063529
+project-id = 1537677

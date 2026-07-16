@@ -1,0 +1,13 @@
+name = "Croptopia Juice and Jam"
+filename = "croptopiajj-0.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b73706ea15c701bfebba92c339f5c68f49c9cc0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6745300
+project-id = 1192068
