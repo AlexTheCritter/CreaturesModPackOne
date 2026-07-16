@@ -399,11 +399,6 @@ hash = "1727ed3e159799a82bce9cfa49e9d86edbc58d112867c0f3265d71adc8ce3cd9"
 metafile = true
 
 [[files]]
-file = "mods/christmas-delight.pw.toml"
-hash = "1c0aa4ce97caaeeff518e87711dff2769402148d74467f75154bc0e9843e4979"
-metafile = true
-
-[[files]]
 file = "mods/chunkpregenerator.pw.toml"
 hash = "345eb244d1079db96707c15014c55be57c655d2fc4adab400cfaa2ec3d5a18f1"
 metafile = true
@@ -485,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "346f28e2ec19543a6b410bf2cf5389401bc6d1aa0189e39d07bf11d64d8bd321"
+hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
@@ -516,11 +511,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-pizzeria.pw.toml"
 hash = "66862d07d2e2dadddd7a650235d5ada7728f1110c53cfaefd12b5374d5cc65e6"
-metafile = true
-
-[[files]]
-file = "mods/farmers-sandwiches.pw.toml"
-hash = "11431baa8a1c9fb911e9d9b33a8d2daa041eade02e1101f8cd103c44a93229c8"
 metafile = true
 
 [[files]]
