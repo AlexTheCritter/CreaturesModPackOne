@@ -434,6 +434,11 @@ hash = "e2edf339c98dbdcf04f46a15276e9b1b5bbdeee0f1ac8b7d9bddb1ee8e54b9a1"
 metafile = true
 
 [[files]]
+file = "mods/croptopia-delight.pw.toml"
+hash = "666cc08c837ff9f66a4418783e04d56124ee92b86aa5febb75d5dbec0d6fc7ce"
+metafile = true
+
+[[files]]
 file = "mods/croptopia-juice-and-jam.pw.toml"
 hash = "48d1ca405fff5b4d642b2597db4d2d90a648de43ece5c676ce88d9b9c5d129b3"
 metafile = true
